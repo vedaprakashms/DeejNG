@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "arduino.h": "c",
+        "ch5xx.h": "c"
+    }
+}
